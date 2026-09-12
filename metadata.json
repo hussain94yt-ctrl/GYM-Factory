@@ -1,0 +1,6 @@
+{
+  "name": "Body Factory Gym",
+  "description": "Body Factory Gym in Latifabad, Hyderabad. Explore the gym, discover the fitness experience, contact the gym and get directions through Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
